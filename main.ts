@@ -15,3 +15,6 @@ scene.setBackgroundImage(img`
     ..............................
     ..............................
     `)
+game.onUpdate(function () {
+	
+})
