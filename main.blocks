@@ -15,19 +15,16 @@
 ..............................
 ..............................
 `</field><data>{"commentRefs":[],"fieldData":{"img":"-59]}].[gYOetb7_OMMg"}}</data></shadow></value></block></statement></block><block type="spritescreatenoset" id="Hu1V9q/:JTb4Tj[zwZx?" disabled="true" x="490" y="10"><value name="img"><shadow type="screen_image_picker" id="SiF~|Jt_N$*3K;cHgu7#" disabled="true"><field name="img">img`
-. . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . 
-. . . 3 3 3 3 3 3 3 3 . . . . 
-. . . 3 3 3 3 3 3 3 3 . . . . 
-. . . 3 3 3 3 3 3 3 3 . . . . 
-. . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . 
+. . . . . . . . . . . . 
+. . . . . . . . . . . . 
+. . 3 3 3 3 3 3 3 3 . . 
+. . 3 3 3 3 3 3 3 3 . . 
+. . 3 3 b 3 3 b 3 3 . . 
+. . 3 b b 3 3 b b 3 . . 
+. . 3 7 7 3 3 7 7 3 . . 
+. . . 7 7 3 3 7 7 . . . 
+. . . 7 7 3 3 7 7 . . . 
+. . . 3 3 3 3 3 3 . . . 
+. . . 3 3 . . 3 3 . . . 
+. . . 3 3 . . 3 3 . . . 
 `</field><data>{"commentRefs":[],"fieldData":{"img":"SiF~|Jt_N$*3K;cHgu7#"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="57NlmH^;{$RidqMHAk!|" disabled="true"><field name="MEMBER">Player</field></shadow></value></block><block type="camerafollow" id="z6)mphzjP.gPugP`f2~#" disabled="true" x="450" y="170"><value name="sprite"><block type="variables_get" id="SxEGHA|.LIzaIRgLdIRo" disabled="true"><field name="VAR" id="]/Ia;$pPXAfdQh}do;Z)">mySprite</field></block></value></block><block type="gameupdate" id="p}Af/losGE|Iao!b~V}6" x="190" y="310"></block></xml>
